@@ -1,0 +1,10 @@
+{
+    "name": "City Weather",
+    "description": "Know the weather of any city",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "download.png"
+    }
+}
